@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+*{padding: 0; margin: 0;
+    font-family: 'Roboto';
+}
+h1{
+    font-size: 4rem;
+}
+#navbarNav ul li{
+    font-weight: bold;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+#navbarNav ul li :hover{
+    border-bottom: 1px solid #44C0C2;
+}
+.text-color{
+    color: #44C0C2;
+}
+.services-section .card{
+    border: none;
+    background: none;
+}
+.work-button{
+    color: white;
+    background-color: #44C0C2;
+    font-size: 1.3rem;
+}
+.pro{
+    background-color: #44C0C2;
+    color: white;
+}
+.dark{
+    background-color: #485460;
+    color: white;
+}
+.dark-button{
+    color: white;
+    background-color: #485460;
+    font-size: 1.3rem;
+}
+.packeges .card li{
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+.packeges .card button{
+    font-size: 1.5rem;
+    padding: 0.5rem 1.5rem;
+} 
+.portfolio .card{
+    padding: 0;
+}
+.portfolio{
+    background-color: #485460;
+}
+.packeges{
+    background-color: #f8f8f8;
+}
+.team .card{
+    border: none;
+    background: none;
+}
+.feedback .carousel-item{
+    height: 25rem;
+}
+.feedback .carousel-item img{
+    width: 150px;
+    height: 150px;
+}
+footer #contact{ 
+    background-color: #485460;
+}
+.btn-footer{
+    background-color: #44C0C2;
+    color: white;
+}
